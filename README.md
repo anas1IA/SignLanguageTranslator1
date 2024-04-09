@@ -44,14 +44,7 @@ or
 
 ```bash
 python3 predict.py
-```
-
-### The Demo : 
-
-https://github.com/JamorMoussa/SignLanguageTranslator/assets/116987044/185b0397-4544-4338-a48a-53f5cc7d30a1
-
-
-Make sure you have the necessary dependencies installed and the virtual environment activated before running the prediction script.
+```.
 
 ### Dependencies
 
