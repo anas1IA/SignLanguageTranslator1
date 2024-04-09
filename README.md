@@ -1,4 +1,4 @@
-# SignLanguageTranslator
+# SignLanguageTranslator1
 
 A simple Sign Language Translator project that predicts sign language gestures using machine learning.
 
